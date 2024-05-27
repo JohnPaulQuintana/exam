@@ -1,0 +1,24 @@
+1.Profile Management
+    - register -> done
+    - login -> done
+    - update -> done,
+User can Create account - done
+2. User can login - done
+3. create blogs:
+    - display all the blogs -> done
+    - create blogs (authenticated) -> done
+    - delete blogs -> done
+    - update blogs -> done
+
+4. email -> done
+
+5. view all the blogs - done
+
+6. auditlogs - done
+
+
+middleware
+    1. if the user ai authenticated , they can access the createblogs and view blogs. - done
+
+Authentication method :
+Sanctum - authorization
