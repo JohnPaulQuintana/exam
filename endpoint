@@ -1,0 +1,11 @@
+Blogs:
+    delete: delete - http://127.0.0.1:8000/api/user/delete/blog?id=1,
+    post: create - http://127.0.0.1:8000/api/user/blog,
+    get: display blogs - http://127.0.0.1:8000/api/user/blog 
+
+Profile
+    Post : update - http://127.0.0.1:8000/api/user/profile
+
+Authentication
+    POST : register - http://127.0.0.1:8000/api/register
+    POST : login - http://127.0.0.1:8000/api/login
